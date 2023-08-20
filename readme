@@ -1,0 +1,1 @@
+This python code classifies spam in mail using multiple method such as naive bayes, logistic regression, SVC and random forest. The result, accuracy obtained is compared which helps in finalize which method works better to classify spam and non-spam from our inbox
